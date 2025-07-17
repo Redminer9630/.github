@@ -1,3 +1,1 @@
-## Du musst du dieses Repo nicht öffnen
-
-## You have no need to open this Repo
+## Du musst du dieses Repo nicht öffnen, alle infos sind auf dem [Organisations Profil](https://github.com/Redminer9630)
