@@ -1,1 +1,3 @@
-## Du musst du dieses Repo nicht öffnen, alle infos sind auf dem [Organisations Profil](https://github.com/Redminer9630)
+# Wo die Info zusammen kommt, hier!
+
+## In diesem Repo ist alle Info bei sammen
