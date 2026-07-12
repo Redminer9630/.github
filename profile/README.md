@@ -1,5 +1,5 @@
 # Offiziele Redminer9630 GitHub Orga
-
+VERALTET
 ## Offiziele Website: 
 
 [![redminer9630.ddns.net](website.jpg)](https://redminer9630.ddns.net)
